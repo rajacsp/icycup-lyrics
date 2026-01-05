@@ -14,6 +14,5 @@
 - [12050 - Move Like You Are Free](12050-move-like-you-are-free.md)
 - [12051 - I Can Feel It](12051-i-can-feel-it.md)
 - [12052 - Still Soft Still Standing](12052-still-soft-still-standing.md)
-- [README](README.md)
-- [zzemp](zzemp.md)
+- [suno-styles.md](suno-styles.md)
 - [zzemp copy](zzemp%20copy.md)
